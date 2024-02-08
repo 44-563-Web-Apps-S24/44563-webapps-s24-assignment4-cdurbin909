@@ -1,0 +1,64 @@
+.speech {
+  font-family: serif;
+  font-size: 10pt;
+}
+
+.direction {
+  font-family: sans-serif;
+  background-color: lightgrey;
+  font-size: 8pt;
+}
+
+.direction:hover {
+  color: blue;
+  background-color: darkgrey;
+}
+
+.irina {
+  color: blue;
+}
+
+.irina:hover {
+  text-shadow: 3px 3px 3px black;
+}
+
+.olga {
+  color: red;
+}
+
+.olga:hover {
+  text-shadow: 3px 3px 3px black;
+}
+
+.chebutikin {
+  color: green;
+}
+
+.chebutikin:hover {
+  text-shadow: 3px 3px 3px black;
+}
+
+.tuzenbach {
+  color: orange;
+}
+
+.tuzenbach:hover {
+  text-shadow: 3px 3px 3px black;
+}
+
+.soleni {
+  color: purple;
+}
+
+.soleni:hover {
+  text-shadow: 3px 3px 3px black;
+}
+
+th,
+td {
+  border: 3px solid purple;
+  padding: 20px;
+  text-align: center;
+  background-color: #adadad;
+  color: black;
+}
